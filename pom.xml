@@ -32,6 +32,8 @@ THE SOFTWARE.
     <relativePath />
   </parent>
 
+  
+
   <groupId>org.jenkins-ci.main</groupId>
   <artifactId>jenkins-parent</artifactId>
   <version>${revision}${changelist}</version>
